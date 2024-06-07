@@ -8,7 +8,7 @@ export const Bio = {
     "My name is Tirtharaj Misra .I am an aspiring software and web developer. I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/TirtharajMisra",
   resume:
-    "https://drive.google.com/file/d/1E3nhWe6J3xX5JBuqP65V9VPx0ZFKhB14/view",
+    "",
   linkedin: "https://www.linkedin.com/in/tirtharaj-misra-888bb2286/",
   
   insta: "https://www.instagram.com/tirth_0_raj?igsh=OTAzMGc1aHg2Zmtj",
